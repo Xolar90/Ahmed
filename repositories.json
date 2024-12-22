@@ -1,0 +1,22 @@
+[
+  {
+    "name": "KawaiifuProvider",
+    "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/KawaiifuProvider.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com",
+    "tvTypes": ["AnimeMovie", "Anime"],
+    "language": "en",
+    "status": 1,
+    "authors": [],
+    "version": 1
+  },
+  {
+    "name": "AnotherProvider",
+    "url": "https://example.com/path/to/another-provider.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=example.com",
+    "tvTypes": ["Movie", "TVSeries"],
+    "language": "en",
+    "status": 1,
+    "authors": ["AuthorName"],
+    "version": 1
+  }
+]
